@@ -1,0 +1,9 @@
+Perguntas 
+
+Questão 1: Defina sistema de controla de versão.
+ Sistema de controla de versão um repositório que nos permite obter qualquer
+versão já existente do código. 
+ 
+Questão 2: Diferencie git e github
+O Git é um sistema de controle de versão e o GitHub é uma aplicação Web que possibilita a hospedagem
+de repositórios Git
