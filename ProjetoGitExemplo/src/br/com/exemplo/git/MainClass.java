@@ -9,13 +9,17 @@ package br.com.exemplo.git;
  *
  * @author Note-do-Sett7
  */
-public class ProjetoGitExemplo {
+public class MainClass {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        for (int i = 0; i < 10; i++) {
+ 
+        System.out.println("Olá mundo!!!! :-)");
+        }
+        
     }
     
 }
